@@ -1,8 +1,18 @@
 ---
 layout: ../layouts/Layout.astro
+title: Contact
 ---
-<!-- Markdown Preview - https://dillinger.io/ -->
 
-are you trying to contact me for a
+# Contact
 
-[business inquiry](/business-inquiry) or [something else](/something-else)?
+<br>
+
+The best way to reach me is to DM me on LinkedIn.
+
+<br>
+
+→ [linkedin](https://www.linkedin.com/in/sevedkim)
+
+→ [twitter](https://www.twitter.com/sevedkim) 
+
+→ [farcaster](https://warpcast.com/seve)

@@ -5,7 +5,7 @@ title: Seve Kim
 
 # Seve Kim 
 
-<br>
+<br><br>
 
 ## What I'm doing now
 
@@ -15,13 +15,13 @@ title: Seve Kim
 
 → Training for the 2024 New York Marathon
 
-<br>
+<br><br>
 
 ## Experience
 
 <br>
 
-2023—Now  → Backstage
+2023—Now → Backstage (Spotify)
 
 2022—2023 → Unstoppable Domains
 
@@ -29,13 +29,13 @@ title: Seve Kim
 
 2016—2020 → ThoughtWorks
 
-<br/><br/>
+<br><br>
 
-## Reach out
+## [Posts](/posts) & [Talks](/talks)
 
-<br>
+<br><br><br>
 
-[twitter](https://www.twitter.com/sevedkim)
-[linkedin](https://www.linkedin.com/in/sevedkim)
-[contact](/contact)
+© 2024 | [Contact](/contact)
+
+
 
