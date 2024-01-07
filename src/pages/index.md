@@ -2,22 +2,40 @@
 layout: ../layouts/Layout.astro
 title: Seve Kim
 ---
-<!-- Markdown Preview - https://dillinger.io/ -->
 
-# Seve Kim
+# Seve Kim 
 
-<br/>
+<br>
 
-**What I'm doing now**
+## What I'm doing now
 
-→ Writing a newsletter on [developer products](developerproducts.com)
+<br>
+
+→ Writing a [newsletter](developerproducts.com) on developer products
 
 → Training for the 2024 New York Marathon
 
-→ Practicing storytelling in product strategy
+<br>
+
+## Experience
+
+<br>
+
+2023—Now  → Backstage
+
+2022—2023 → Unstoppable Domains
+
+2020—2022 → Wikimedia Foundation
+
+2016—2020 → ThoughtWorks
 
 <br/><br/>
+
+## Reach out
+
+<br>
 
 [twitter](https://www.twitter.com/sevedkim)
 [linkedin](https://www.linkedin.com/in/sevedkim)
 [contact](/contact)
+
