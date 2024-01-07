@@ -27,6 +27,6 @@ title: Posts
 
 2020.04.30 → [A Picture's Worth a 1,000 Docs]()
 
-2021.04.21 → [Less Consumption, More Creation]()
+2021.04.21 → [Less Consumption, More Creation](/posts/less-consumption)
 
 2020.04.30 → [Grape Growing](/posts/grape-growing)
