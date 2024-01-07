@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/Layout.astro
-title: Seve Kim
+title: 
 ---
 
 # Seve Kim 
