@@ -5,7 +5,7 @@ title: Seve Kim
 
 # Seve Kim 
 
-<br><br>
+<br>
 
 ## What I'm doing now
 
@@ -15,7 +15,7 @@ title: Seve Kim
 
 → Training for the 2024 New York Marathon
 
-<br><br>
+<br>
 
 ## Experience
 
@@ -29,7 +29,7 @@ title: Seve Kim
 
 2016—2020 → ThoughtWorks
 
-<br><br>
+<br>
 
 ## [Posts](/posts) & [Talks](/talks)
 
