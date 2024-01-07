@@ -6,12 +6,18 @@ title: Seve Kim
 
 # Seve Kim
 
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+<br/>
 
-[instagram](https://www.instagram.com/caseyneistat/)
+**What I'm doing now**
 
-[onlyfans](/onlyfans)
+→ Writing a newsletter on [developer products](developerproducts.com)
 
-[twitter](https://twitter.com/Casey)
+→ Training for the 2024 New York Marathon
 
+→ Practicing storytelling in product strategy
+
+<br/><br/>
+
+[twitter](https://www.twitter.com/sevedkim)
+[linkedin](https://www.linkedin.com/in/sevedkim)
 [contact](/contact)
