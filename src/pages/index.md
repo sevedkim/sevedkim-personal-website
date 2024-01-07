@@ -11,7 +11,7 @@ title: Seve Kim
 
 <br>
 
-→ Writing a [newsletter](developerproducts.com) on developer products
+→ Writing a [newsletter](https://developerproducts.com) on developer products
 
 → Training for the 2024 New York Marathon
 
