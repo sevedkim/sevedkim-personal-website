@@ -1,10 +1,10 @@
 ---
 layout: ../layouts/Layout.astro
-title: Nice Tat Astro Template
+title: Seve Kim
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# Nice Tat Astro Template
+# Seve Kim
 
 [youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
 
