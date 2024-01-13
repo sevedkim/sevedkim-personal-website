@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: Joy Log
 ---
-Joy Log
+JOY LOG
 
 <br>
 

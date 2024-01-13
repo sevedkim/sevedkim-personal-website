@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: Tinkering
 ---
-Tinkering
+TINKERING
 
 <br>
 

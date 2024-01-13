@@ -3,7 +3,7 @@ layout: ../layouts/Layout.astro
 title: 
 ---
 
-# Seve Kim 
+# SEVE D. KIM
 
 <br>
 

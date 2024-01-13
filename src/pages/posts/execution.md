@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: Execution is cheap, ideas are everything
 ---
-Execution is cheap, ideas are everything
+EXECUTION IS CHEAP, IDEAS ARE EVERYTHING
 
 <br>
 

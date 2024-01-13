@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: Less Consumption, More Creation
 ---
-Less Consumption, More Creation
+LESS CONSUMPTION, MORE CREATION
 
 <br>
 

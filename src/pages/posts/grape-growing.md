@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: Grape Growing
 ---
-Grape Growing
+GRAPE GROWING
 
 <br>
 

@@ -3,7 +3,7 @@ layout: ../layouts/Layout.astro
 title: Posts
 ---
 
-# Posts
+# POSTS
 
 <br>
 

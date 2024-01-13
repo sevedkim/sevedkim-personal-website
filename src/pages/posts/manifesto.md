@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: My Personal Manifesto
 ---
-My Personal Manifesto
+MY PERSONAL MANIFESTO
 
 <br>
 

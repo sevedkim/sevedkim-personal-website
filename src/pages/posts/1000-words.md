@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: A Picture's Worth a 1,000 Docs
 ---
-A Picture's Worth a 1,000 Docs
+A PICTURE'S WORTH A 1,000 DOCS
 
 <br>
 

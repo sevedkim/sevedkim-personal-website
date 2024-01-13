@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: What is a "Platform"?
 ---
-What is a "Platform"?
+WHAT IS A "PLATFORM"?
 
 <br>
 

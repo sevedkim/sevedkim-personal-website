@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: Favorite books
 ---
-Favorite books
+FAVORITE BOOKS
 
 <br>
 

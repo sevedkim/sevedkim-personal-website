@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: Plan for No Plans
 ---
-Plan for No Plans
+PLAN FOR NO PLANS
 
 <br>
 

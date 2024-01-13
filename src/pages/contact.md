@@ -3,7 +3,7 @@ layout: ../layouts/Layout.astro
 title: Contact
 ---
 
-# Contact
+# CONTACT
 
 <br>
 

@@ -2,7 +2,7 @@
 layout: ../../layouts/Layout.astro
 title: What's the Difference Between Digital Products & Platforms?
 ---
-What's the Difference Between Digital Products & Platforms?
+WHAT'S THE DIFFERENCE BETWEEN DIGITAL PRODUCTS & PLATFORMS?
 
 <br>
 
