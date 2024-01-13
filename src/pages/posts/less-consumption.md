@@ -3,10 +3,6 @@ layout: ../../layouts/Layout.astro
 title: Less Consumption, More Creation
 ---
 
-2021.04.22
-
-<br>
-
 > "Reader! — You have been bred in a land abounding with men, able in arts, learning, and knowledges manifold, this man in one, this in another, few in many, none in all. But there is one art, of which every man should be'master, the art of reflection. If you are not a thinking man, to what purpose are you a man at all?"
 <br>
 –Samuel Taylor Coleridge

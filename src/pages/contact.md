@@ -7,7 +7,7 @@ title: Contact
 
 <br>
 
-The best way to reach me is to DM me on LinkedIn.
+Reach me at [sevedkim@gmail.com](mailto:sevedkim@gmail.com)
 
 <br>
 

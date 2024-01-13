@@ -7,26 +7,38 @@ title: Posts
 
 <br>
 
-[Execution is cheap, ideas are everything]()
+2023
+
+<br>
+
+12.10 → [Execution is cheap, ideas are everything](/posts/execution)
+
+10.18 → [Favorite Books](/posts/favorite-books)
 
 [Tinkering]()
-
-[Favorite Books]()
 
 [Joy Log]()
 
 [My Personal Manifesto]()
 
-[Case Study: Developer Onboarding Redesign]()
-
-[What's the Difference Between Digital Products & Platforms?]()
-
 [What is a "Platform"?]()
 
 [Plan for No Plans]()
 
-2020.04.30 → [A Picture's Worth a 1,000 Docs]()
+2021
 
-2021.04.21 → [Less Consumption, More Creation](/posts/less-consumption)
+<br>
 
-2020.04.30 → [Grape Growing](/posts/grape-growing)
+06.16 → [Products & Platforms](/posts/products-platforms)
+
+05.31 → [A Picture's Worth a 1,000 Docs](/posts/1000-words)
+
+04.21 → [Less Consumption, More Creation](/posts/less-consumption)
+
+<br>
+
+2020
+
+<br>
+
+04.30 → [Grape Growing](/posts/grape-growing)
