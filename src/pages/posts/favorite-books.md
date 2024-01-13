@@ -2,6 +2,9 @@
 layout: ../../layouts/Layout.astro
 title: Favorite books
 ---
+Favorite books
+
+<br>
 
 A list of my favorite books that have inspired me and shape the way I think
 

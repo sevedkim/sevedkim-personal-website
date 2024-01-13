@@ -13,21 +13,23 @@ title: Posts
 
 12.10 → [Execution is cheap, ideas are everything](/posts/execution)
 
+11.16 → [Tinkering](/posts/tinkering)
+
 10.18 → [Favorite Books](/posts/favorite-books)
 
-[Tinkering]()
+09.18 → [Joy Log](/posts/joy)
 
-[Joy Log]()
+07.29 → [My Personal Manifesto](/posts/manifesto)
 
-[My Personal Manifesto]()
+06.07 → [What is a "Platform"?](/posts/platform)
 
-[What is a "Platform"?]()
-
-[Plan for No Plans]()
+<br>
 
 2021
 
 <br>
+
+06.05 → [Plan for No Plans](/posts/plan)
 
 06.16 → [Products & Platforms](/posts/products-platforms)
 

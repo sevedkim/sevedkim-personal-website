@@ -2,6 +2,9 @@
 layout: ../../layouts/Layout.astro
 title: Grape Growing
 ---
+Grape Growing
+
+<br>
 
 _Originally published on the [ThoughtWorks Insight Blog](https://www.thoughtworks.com/insights/blog/grape-growing-applying-product-thinking-digital-platforms)_
 

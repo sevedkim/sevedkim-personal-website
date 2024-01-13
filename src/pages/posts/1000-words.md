@@ -2,6 +2,9 @@
 layout: ../../layouts/Layout.astro
 title: A Picture's Worth a 1,000 Docs
 ---
+A Picture's Worth a 1,000 Docs
+
+<br>
 
 Documentation will be the death of me.
 

@@ -2,6 +2,9 @@
 layout: ../../layouts/Layout.astro
 title: What's the Difference Between Digital Products & Platforms?
 ---
+What's the Difference Between Digital Products & Platforms?
+
+<br>
 
 Just as we think differently of how we grow grapes and how we make wine, digital products and platforms yield value in different ways.
 
