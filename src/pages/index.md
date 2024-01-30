@@ -15,6 +15,8 @@ title:
 
 → Training for the 2024 New York Marathon
 
+→ Reading [Four Thousand Weeks](https://a.co/d/fL9GexH), [Comfort Crisis](https://a.co/d/flj6rKu) & [Read Write Own](https://a.co/d/cuo2ajc)
+
 <br>
 
 ## Experience

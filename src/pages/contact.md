@@ -11,8 +11,8 @@ Reach me at [sevedkim@gmail.com](mailto:sevedkim@gmail.com)
 
 <br>
 
-→ [linkedin](https://www.linkedin.com/in/sevedkim)
+→ [Linkedin](https://www.linkedin.com/in/sevedkim)
 
-→ [twitter](https://www.twitter.com/sevedkim) 
+→ [Twitter](https://www.twitter.com/sevedkim) 
 
-→ [farcaster](https://warpcast.com/seve)
+→ [Farcaster](https://warpcast.com/seve)
