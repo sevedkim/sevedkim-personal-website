@@ -1,11 +1,7 @@
 ---
 layout: ../layouts/Layout.astro
-title: Posts
+title: POSTS
 ---
-
-# POSTS
-
-<br>
 
 2023
 

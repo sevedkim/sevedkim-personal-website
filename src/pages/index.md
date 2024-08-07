@@ -2,11 +2,6 @@
 layout: ../layouts/Layout.astro
 title: 
 ---
-
-# SEVE D. KIM
-
-<br>
-
 ## Now
 
 <br>
@@ -21,7 +16,7 @@ title:
 
 <br>
 
-2023—Now → Backstage (Spotify)
+2023—Now → Spotify (Backstage)
 
 2022—2023 → Unstoppable Domains
 
@@ -30,8 +25,5 @@ title:
 2016—2020 → ThoughtWorks
 
 <br>
-
-## [Posts](/posts) & [Talks](/talks)
-
 
 

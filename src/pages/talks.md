@@ -1,9 +1,13 @@
 ---
 layout: ../layouts/Layout.astro
-title: Talks
+title: TALKS
 ---
 
-# TALKS
+2024
+
+<br>
+
+07.28 → [When Terraform Met Backstage](https://www.linkedin.com/events/7207393585124511744/comments/)
 
 <br>
 
