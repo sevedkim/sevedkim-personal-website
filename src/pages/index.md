@@ -7,7 +7,7 @@ title:
 
 <br>
 
-## What I'm doing now
+## Now
 
 <br>
 
@@ -15,9 +15,7 @@ title:
 
 → Training for the 2024 New York Marathon
 
-→ Reading [Four Thousand Weeks](https://a.co/d/fL9GexH), [Comfort Crisis](https://a.co/d/flj6rKu) & [Read Write Own](https://a.co/d/cuo2ajc)
-
-<br>
+<br><br>
 
 ## Experience
 
@@ -34,10 +32,6 @@ title:
 <br>
 
 ## [Posts](/posts) & [Talks](/talks)
-
-<br><br><br>
-
-© 2024 | [Contact](/contact)
 
 
 

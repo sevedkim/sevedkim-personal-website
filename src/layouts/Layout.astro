@@ -3,54 +3,86 @@
 import "@fontsource/jetbrains-mono/400.css";
 import "@fontsource/jetbrains-mono/500.css";
 
-
-import { SITE_NAME, DESCRIPTION } from '../../src/config'
+import { SITE_NAME, DESCRIPTION } from "../../src/config";
 
 interface Props {
 	title: string;
 }
 
 // @ts-ignore - TODO figure otu type safety on this
-const { frontmatter } = Astro.props
+const { frontmatter } = Astro.props;
 
-const isHome = Astro.url.pathname === '/'
+const isHome = Astro.url.pathname === "/";
 
 const pageTitle = [
 	frontmatter.title ? frontmatter.title : undefined,
 	isHome ? SITE_NAME : undefined,
-].filter(Boolean).join(' | ')
-
+]
+	.filter(Boolean)
+	.join(" | ");
 ---
 
-<!doctype html>
-
+<html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="description" content={ DESCRIPTION } />
+		<meta name="description" content={DESCRIPTION} />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.ico" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{ pageTitle }</title>
-
-
+		<title>{pageTitle}</title>
 	</head>
-	<body class={`text-gray-500 dark:text-gray-100 ${ isHome ? 'is-home' : '' }`}>
-		<div class="max-w-5xl mx-auto space-y-4 py-16 px-14">
-			<main 
-				class="max-w-xl"
-			>
+	<body
+		class={`flex flex-col min-h-screen text-gray-500 dark:text-gray-100 ${isHome ? "is-home" : ""}`}
+	>
+		<div class="flex-grow max-w-5xl mx-auto w-full space-y-4 py-16 px-14">
+			<main class="max-w-xl">
 				<slot />
 			</main>
-
-			<footer>
-				{ !isHome && (
-					<a href="/">←home</a>
-				)}
-			</footer>
 		</div>
+		<footer class="w-full max-w-5xl mx-auto px-14 py-8 mt-auto">
+			<div class="flex gap-x-16">
+				<div class="follow">
+					<h3>Follow</h3>
+					<ul>
+						<li>
+							<a href="https://twitter.com/sevedkim">Twitter</a>
+						</li>
+						<li>
+							<a href="https://www.linkedin.com/in/sevedkim"
+								>LinkedIn</a>
+						</li>
+						<li>
+							<a href="https://developerproducts.com"
+								>Newsletter</a>
+						</li>
+					</ul>
+				</div>
+				<div class="connect">
+					<h3>Connect</h3>
+					<ul>
+						<li><a href="mailto:sevedkim@gmail.com">Email</a></li>
+					</ul>
+				</div>
+			</div>
+		</footer>
 	</body>
 </html>
+
 <style is:global>
+	html,
+	body {
+		height: 100%;
+	}
+
+	footer a {
+		color: inherit;
+		text-decoration: none;
+	}
+
+	footer a:hover {
+		text-decoration: underline;
+	}
+
 	:root {
 		--accent: 136, 58, 234;
 		--accent-light: 224, 204, 250;
@@ -77,7 +109,6 @@ const pageTitle = [
 		}
 	}
 
-
 	code {
 		font-family:
 			Menlo,
@@ -101,9 +132,23 @@ const pageTitle = [
 		font-weight: 500;
 	}
 
-
 	a {
 		text-decoration: underline;
+	}
 
+	footer h3 {
+		margin-bottom: 1rem;
+		font-weight: 500;
+	}
+
+	footer ul {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+	}
+
+	footer li {
+		margin-bottom: 0;
+		line-height: 1.2;
 	}
 </style>
