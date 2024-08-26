@@ -1,79 +1,36 @@
-# Nice Tat
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Astro Site Template inspired by Casey Neistat’s ultra minimal personal site. 
+## Getting Started
 
-Great for a LinkInBio type site or just a placeholder while you work on getting your personal site right for the next 35 years. 
+First, run the development server:
 
-![Screen Recording 2023-10-28 at 10 23 32 AM](https://github.com/ThatGuySam/nice-tat/assets/2830379/5cb4215c-976c-4d58-bb33-7ef36f24ffe3)
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-[Watch Setup Video](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-[View Demo](https://nice-tat.netlify.app/)
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ThatGuySam/nice-tat)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ThatGuySam/nice-tat)
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Learn More
 
-## 🌟 Features
-- ✅ One-Click Deploy to Netlify or Vercel
-- ✅ Markdown for Easy Edits
-- ✅ TailwindCSS for Easy Styling
-- 🌙 Dark Mode for Night Owls
-- 🔄 Page Transitions for Smooth Navigation
-- 🌐 SEO-friendly Out of the Box
-- 📝 Detailed README for Quick Setup
-- 📸 onlyfans
+To learn more about Next.js, take a look at the following resources:
 
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## 🛠 The Stack
-- Astro
-- Tailwind
-- HTML
-- Markdown
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+## Deploy on Vercel
 
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## 🚀 How to setup
-
-Simply click one of the deploy buttons above, fill in the site details and your site should be running in about 2 mins. 
-
-
-
-## ✏️ Editing the Site
-
-You can edit the site directly on GitHub or clone the repo to your local machine. 
-
-
-## 📄 Adding a new page
-
-To add a new page simply create a new Markdown file in the /src/pages directory, Example: /src/pages/twitch.md, and add your content and options. 
-
-You can also copy and paste an existing markdown file. 
-
-
-## 🌍 Site Wide Options
-
-You can customize the site name as well as other options for the whole site in src/config.ts
-
-
-## ❓ Why not add X, Y, and Z?
-
-Because HTML is a beautiful language not everything needs to use the latest tool for building a planet scale multi-tenant sharded vector database backed web application. 
-
-If you really want to extend the site the Astro Docs should get you pretty far: https://docs.astro.build/en/getting-started/
-
-
-## ❓ Additional questions
-
-You can ask the [ChatGPT Bot](https://chat.openai.com/share/4cb54749-4580-4d18-9be5-89265ef9f33d) for this project or or open a new Issue [here](https://github.com/ThatGuySam/nice-tat/issues)
-
-
-## 🙏 Credits
-Inspired by [Casey Neistat's Website](https://www.caseyneistat.com/).
-
-
-
-
-## 👀 Want to learn more about Astro?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
