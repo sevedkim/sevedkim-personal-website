@@ -5,7 +5,7 @@ export default function Writing() {
     <div className="min-h-screen bg-black text-white font-sans flex flex-col">
       <div className="flex-grow max-w-3xl mx-auto px-8 w-full">
         <header className="py-8 flex justify-between items-center">
-          <Link href="/" className="text-sm text-gray-400 hover:text-turquoise transition-colors duration-200 fixed top-8 left-8 md:static md:top-auto md:left-auto">
+          <Link href="/" className="text-sm text-gray-400 hover:text-turquoise transition-colors duration-200">
             ← Home
           </Link>
           <h1 className="text-xl font-semibold">Writing</h1>
