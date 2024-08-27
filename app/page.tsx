@@ -8,17 +8,18 @@ export default function Home() {
           <h1 className="text-lg font-bold mb-0 font-mono">Seve Kim</h1>
         </header>
         <main className="space-y-12 pb-0">
-          <section>
-            <h2 className="text-lg font-semibold mb-4">Now</h2>
-            <p className="text-gray-400">
+          <section className="bg-gray-900 rounded-lg p-6 font-['JetBrains_Mono',_monospace]">
+            <h2 className="text-sm font-semibold mb-4">Now</h2>
+            <p className="text-xs text-gray-400">
               1. Training for my first New York City Marathon
             </p>
-            <p className="text-gray-400">
+            <p className="text-xs text-gray-400">
               2. Creating software using Cursor + Claude + v0
             </p>
-            <p className="text-gray-400">
+            <p className="text-xs text-gray-400">
               3. Launching Spotify's first SaaS business, <a href="https://backstage.spotify.com/portal" className="hover:text-turquoise transition-colors duration-200 external-link">Portal</a>
             </p>
+            <p className="text-[11px] font-normal italic text-gray-500 mt-4">Updated August 26, 2024</p>
           </section>
           <section className="grid grid-cols-3 gap-8">
             <div>
