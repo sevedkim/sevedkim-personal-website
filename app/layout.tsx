@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { JetBrains_Mono } from 'next/font/google';
 import { Analytics } from '@vercel/analytics/react';
-import Footer from './components/footer'
+import Footer from './components/footer';
+import Head from 'next/head';
 
 const jetbrainsMono = JetBrains_Mono({ subsets: ['latin'] });
 
@@ -11,29 +12,14 @@ export const metadata: Metadata = {
   description: "",
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={jetbrainsMono.className}>
+    <html lang="en">
       <head>
-        <style dangerouslySetInnerHTML={{__html: `
-          @layer utilities {
-            .external-link::after {
-              content: " \\2197";
-              @apply inline-block ml-0.5 text-[0.8em];
-            }
-          }
-        `}} />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        
       </head>
-      <body className="font-mono bg-background text-gray-900 flex flex-col min-h-screen">
-        <div className="[&_a]:transition-colors [&_a]:duration-200 [&_a:hover]:text-turquoise flex-grow">
-          {children}
-        </div>
-        <Analytics />
-      </body>
+      <body>{children}</body>
     </html>
-  );
+  )
 }
