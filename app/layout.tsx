@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { JetBrains_Mono } from 'next/font/google';
+import { Analytics } from '@vercel/analytics/react';
 import Footer from './components/footer'
 
 const jetbrainsMono = JetBrains_Mono({ subsets: ['latin'] });
@@ -31,6 +32,7 @@ export default function RootLayout({
         <div className="[&_a]:transition-colors [&_a]:duration-200 [&_a:hover]:text-turquoise flex-grow">
           {children}
         </div>
+        <Analytics />
       </body>
     </html>
   );
