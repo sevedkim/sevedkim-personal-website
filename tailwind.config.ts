@@ -36,14 +36,14 @@ const config: Config = {
       },
       keyframes: {
         'fade-in-out': {
-          '0%': { opacity: 0 },
-          '5%': { opacity: 1 },
-          '90%': { opacity: 1 },
-          '100%': { opacity: 0 },
+          '0%': { opacity: '0' },
+          '5%': { opacity: '1' },
+          '90%': { opacity: '1' },
+          '100%': { opacity: '0' },
         }
       },
       animation: {
-        'fade-in-out': 'fade-in-out 0.8s ease-out',
+        'fade-in-out': 'fade-in-out 0.8s ease-in-out',
       }
     },
   },
