@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import CopyEmailButton from './components/CopyEmailButton'
 
 export default function Home() {
   return (
@@ -100,7 +101,9 @@ export default function Home() {
             <div>
               <h3 className="mb-2">Connect</h3>
               <ul className="space-y-0">
-                <li><a href="mailto:sevedkim@gmail.com" className="hover:text-turquoise transition-colors external-link">Email</a></li>
+                <li>
+                  <CopyEmailButton />
+                </li>
                 <li><a href="https://linkedin.com/in/sevedkim" className="hover:text-turquoise transition-colors external-link">LinkedIn</a></li>
               </ul>
             </div>

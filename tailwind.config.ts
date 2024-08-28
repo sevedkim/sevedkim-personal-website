@@ -34,6 +34,17 @@ const config: Config = {
         '8xl': '96px',
         '9xl': '128px',
       },
+      keyframes: {
+        'fade-in-out': {
+          '0%': { opacity: 0 },
+          '5%': { opacity: 1 },
+          '90%': { opacity: 1 },
+          '100%': { opacity: 0 },
+        }
+      },
+      animation: {
+        'fade-in-out': 'fade-in-out 0.8s ease-out',
+      }
     },
   },
   plugins: [],
