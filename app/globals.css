@@ -41,3 +41,12 @@ a:hover {
 a {
   @apply no-underline;
 }
+
+/* Modify this style for external links */
+a.external-link::after {
+  content: "\00a0↗"; /* \00a0 adds a non-breaking space before the arrow */
+  display: inline-block;
+  font-size: 0.8em;
+  vertical-align: baseline; /* Aligns to the base of the characters */
+  margin-left: 0.1em; /* Reduced from 0.2em to 0.1em for a narrower gap */
+}
