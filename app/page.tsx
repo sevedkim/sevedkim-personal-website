@@ -1,12 +1,21 @@
 import Link from 'next/link'
 import CopyEmailButton from './components/CopyEmailButton'
+import { InfoCircle } from 'react-bootstrap-icons';
 
 export default function Home() {
   return (
     <div className="min-h-screen bg-black text-white font-sans flex flex-col">
       <div className="flex-grow max-w-3xl mx-auto px-8 w-full pb-0">
         <header className="py-8">
-          <h1 className="text-lg font-bold mb-0 font-mono">Seve Kim</h1>
+          <h1 className="text-lg font-bold mb-0 font-mono flex items-center">
+            Seve Kim
+            <span className="relative ml-2 cursor-help group">
+              <InfoCircle size={12} className="text-gray-400 hover:text-white transition-colors duration-200" />
+              <span className="absolute left-full ml-2 top-1/2 transform -translate-y-1/2 bg-gray-800 text-white text-xs rounded px-2 py-1 opacity-0 transition-opacity duration-100 ease-in-out group-hover:opacity-100 whitespace-nowrap font-normal italic">
+                Pronounced: "Se-vy"
+              </span>
+            </span>
+          </h1>
         </header>
         <main className="space-y-12 pb-0">
           <section className="bg-gray-900 rounded-lg p-6 font-['JetBrains_Mono',_monospace]">
