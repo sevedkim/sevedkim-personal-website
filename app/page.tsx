@@ -104,7 +104,7 @@ export default function Home() {
               <ul className="space-y-0">
                 <li><a href="https://www.are.na/seve-kim" className="hover:text-turquoise transition-colors  external-link">Are.na</a></li>
                 <li><a href="https://twitter.com/sevedkim" className="hover:text-turquoise transition-colors  external-link">Twitter</a></li>
-                <li><a href="https://developerproducts.com" className="hover:text-turquoise transition-colors external-link">Newsletter</a></li>
+                <li><a href="https://developerproducts.substack.com" className="hover:text-turquoise transition-colors external-link">Newsletter</a></li>
               </ul>
             </div>
             <div>
