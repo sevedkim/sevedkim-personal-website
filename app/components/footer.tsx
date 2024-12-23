@@ -9,13 +9,13 @@ export default function Footer() {
                       <h3 className="mb-2">Follow</h3>
                       <ul className="space-y-0">
                           <li><a href="https://twitter.com/sevedkim" className="hover:text-turquoise transition-colors  external-link">Twitter</a></li>
-                          <li><a href="https://linkedin.com/in/sevedkim" className="hover:text-turquoise transition-colors external-link">LinkedIn</a></li>
-                          <li><a href="https://developerproducts.substack.com" className="hover:text-turquoise transition-colors external-link">Newsletter</a></li>
+                          <li><a href="https://bsky.app/profile/sevedkim.com" className="hover:text-turquoise transition-colors  external-link">Bluesky</a></li>
                       </ul>
                   </div>
                   <div>
                       <h3 className="mb-2">Connect</h3>
                       <a href="mailto:sevedkim@gmail.com" className="hover:text-turquoise transition-colors external-link">Email</a>
+                      <li><a href="https://linkedin.com/in/sevedkim" className="hover:text-turquoise transition-colors external-link">LinkedIn</a></li>
                   </div>
               </div>
           </div>
