@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import CopyEmailButton from './components/CopyEmailButton'
 import { InfoCircle } from 'react-bootstrap-icons';
+import Footer from './components/footer'
 
 export default function Home() {
   return (
@@ -21,15 +22,15 @@ export default function Home() {
           <section className="bg-gray-900 rounded-lg p-6 font-['JetBrains_Mono',_monospace]">
             <h2 className="text-sm font-semibold mb-4">Now</h2>
             <p className="text-xs text-gray-400">
-              1. <a href="https://www.strava.com/athletes/84698281" className="hover:text-turquoise transition-colors duration-200 external-link">Training</a> for my first New York City Marathon.
+              1. Designing garments for <a href="https://www.instagram.com/workhorsenyc/" className="hover:text-turquoise transition-colors duration-200 external-link">Workhorse NYC</a>
             </p>
             <p className="text-xs text-gray-400">
-              2. Creating software using Cursor + Claude + v0
+              2. Picking up golf again while in Florida with family
             </p>
             <p className="text-xs text-gray-400">
-              3. Launching Spotify's first SaaS business, <a href="https://backstage.spotify.com/portal" className="hover:text-turquoise transition-colors duration-200 external-link">Portal</a>
+              3. Honing the craft of <a href="https://en.wikipedia.org/wiki/Worldbuilding" className="hover:text-turquoise transition-colors duration-200 external-link">worldbuilding</a> through visual storytelling
             </p>
-            <p className="text-[11px] font-normal italic text-gray-500 mt-4">Last updated August 26, 2024</p>
+            <p className="text-[11px] font-normal italic text-gray-500 mt-4">Last updated December 22, 2024</p>
           </section>
           <section className="grid grid-cols-3 gap-8">
             <div>
@@ -60,7 +61,7 @@ export default function Home() {
                   <p className="text-sm text-gray-400">Spotify's enterprise SaaS offering built on open source Backstage.</p>
                 </li>
                 <li>
-                  <h3 className="font-medium"><a href="https://github.com/unstoppabledomains/resolution" className="hover:text-turquoise transition-colors duration-200 external-link">Blockchain Resolution</a></h3>
+                  <h3 className="font-medium"><a href="https://github.com/unstoppabledomains/resolution" className="hover:text-turquoise transition-colors duration-200 external-link">Blockchain Domain Resolution</a></h3>
                   <p className="text-sm text-gray-400">A library to resolve blockchain domain names.</p>
                 </li>
               </ul>
@@ -96,32 +97,7 @@ export default function Home() {
           </section>
         </main>
       </div>
-      <footer className="py-8 mt-0 text-xs text-gray-400 font-sans">
-        <div className="max-w-3xl mx-auto px-8">
-          <div className="flex space-x-16">
-            <div>
-              <h3 className="mb-2">Follow</h3>
-              <ul className="space-y-0">
-                <li><a href="https://www.are.na/seve-kim" className="hover:text-turquoise transition-colors  external-link">Are.na</a></li>
-                <li><a href="https://twitter.com/sevedkim" className="hover:text-turquoise transition-colors  external-link">Twitter</a></li>
-                <li><a href="https://developerproducts.substack.com" className="hover:text-turquoise transition-colors external-link">Newsletter</a></li>
-              </ul>
-            </div>
-            <div>
-              <h3 className="mb-2">Connect</h3>
-              <ul className="space-y-0">
-                <li>
-                  <CopyEmailButton />
-                </li>
-                <li><a href="https://linkedin.com/in/sevedkim" className="hover:text-turquoise transition-colors external-link">LinkedIn</a></li>
-              </ul>
-            </div>
-            <div>
-              <Link href="/colophon" className="hover:text-turquoise transition-colors">Colophon</Link>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <Footer />
     </div>
     
   )

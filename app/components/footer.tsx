@@ -14,8 +14,10 @@ export default function Footer() {
                   </div>
                   <div>
                       <h3 className="mb-2">Connect</h3>
-                      <a href="mailto:sevedkim@gmail.com" className="hover:text-turquoise transition-colors external-link">Email</a>
-                      <li><a href="https://linkedin.com/in/sevedkim" className="hover:text-turquoise transition-colors external-link">LinkedIn</a></li>
+                      <ul className="space-y-0">
+                        <li><a href="mailto:sevedkim@gmail.com" className="hover:text-turquoise transition-colors external-link">Email</a></li>
+                        <li><a href="https://linkedin.com/in/sevedkim" className="hover:text-turquoise transition-colors external-link">LinkedIn</a></li>
+                      </ul>
                   </div>
               </div>
           </div>
